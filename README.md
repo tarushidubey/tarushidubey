@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tarushidubey
-- 👀 I’m interested in exploring github
-- 🌱 I’m currently learning c
+- 👀 I’m interested in exploring github.
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me : tarushidubey2@gmail.com
 <!---
